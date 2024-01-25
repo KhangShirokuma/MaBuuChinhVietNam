@@ -1,4 +1,4 @@
-# Mã Bưu Chính Viêt Nam
+# Mã Bưu Chính Việt Nam
 
 **[Quay về Trang chủ](https://khangshirokuma.github.io/)**
 
@@ -10,9 +10,14 @@ Xem thêm các văn bản liên quan tại [trang Tra cứu Mã bưu chính qu�
 ## Bản đồ Mã bưu chính
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
-![Bản đồ Mã bưu chính](/Tài%20Liệu/01.%20Ban%20do%20MBC.jpg "Bản đồ Mã bưu chính")
+Cả nước được chia thành 10 vùng (đánh số từ 0-9).  
+Mã vùng là kí tự đầu tiên (kí tự ngoài cùng bên trái) trong mã bưu chính (xem thêm phần [Cấu trúc Mã bưu chính](#cấu-trúc-mã-bưu-chính)).
+
+[Danh sách Mã vùng](/Mã%20Vùng/README.md)
+
+![Bản đồ Mã bưu chính](/MaBuuChinhVietNam/assets/img/01.%20Ban%20do%20MBC.jpg "Bản đồ Mã bưu chính")
 
 ## Cấu trúc Mã bưu chính
 Trích từ [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/default.aspx?page=newsdetail&newsid=9) và [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
-![Cấu trúc Mã bưu chính](/Tài%20Liệu/Cấu_Trúc_Mã_Bưu_Chính.jpg "Cấu trúc Mã bưu chính")
+![Cấu trúc Mã bưu chính](/MaBuuChinhVietNam/assets/img/Cấu_Trúc_Mã_Bưu_Chính.jpg "Cấu trúc Mã bưu chính")
