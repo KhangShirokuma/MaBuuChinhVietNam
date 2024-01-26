@@ -49,7 +49,7 @@ Gồm 6 tỉnh:
 3. Hà Tĩnh
 4. Quảng Bình
 5. Quảng Trị
-6. Thừa Thiên - Huế
+6. Thừa Thiên-Huế
 
 ## Vùng 6 - Mã vùng 5
 Gồm 6 tỉnh, thành phố trực thuộc Trung ương:

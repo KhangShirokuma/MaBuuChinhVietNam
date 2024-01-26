@@ -6,7 +6,7 @@
 **[Trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/Default.aspx)**
 
 ## Danh bạ Mã bưu chính quốc gia
-Tải [Danh bạ Mã bưu chính quốc gia](https://mabuuchinh.vn/Images/danhbamabuuchinhquocgia.pdf), được cung cấp bởi [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/Default.aspx).
+Xem/Tải [Danh bạ Mã bưu chính quốc gia](https://mabuuchinh.vn/Images/danhbamabuuchinhquocgia.pdf), được cung cấp bởi [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/Default.aspx).
 
 ## Văn bản quy phạm pháp luật liên quan đến Mã bưu chính quốc gia
 [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html) của Bộ trưởng Bộ Thông tin và Truyền thông về việc Ban hành Mã bưu chính quốc gia.
@@ -28,7 +28,7 @@ Mã vùng là ký tự đầu tiên (ký tự ngoài cùng bên trái) trong mã
 ## Cấu trúc Mã bưu chính quốc gia
 Trích từ [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/default.aspx?page=newsdetail&newsid=9) và Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
-![Cấu trúc Mã bưu chính](docs/assets/img/Cấu_Trúc_Mã_Bưu_Chính.jpg "Cấu trúc Mã bưu chính")
+![Cấu trúc Mã bưu chính](docs/assets/img/Cấu_Trúc_Mã_Bưu_Chính.png "Cấu trúc Mã bưu chính")
 
 ## Nguyên tắc gán Mã bưu chính quốc gia
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
