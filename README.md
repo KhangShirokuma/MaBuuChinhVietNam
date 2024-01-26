@@ -11,11 +11,11 @@ Xem thêm các văn bản liên quan tại [trang Tra cứu Mã bưu chính qu�
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
 Cả nước được chia thành 10 vùng (đánh số từ 0-9).  
-Mã vùng là kí tự đầu tiên (kí tự ngoài cùng bên trái) trong mã bưu chính (xem thêm phần [Cấu trúc Mã bưu chính](#cấu-trúc-mã-bưu-chính)).
+Mã vùng là ký tự đầu tiên (ký tự ngoài cùng bên trái) trong mã bưu chính (xem thêm phần [Cấu trúc Mã bưu chính](#cấu-trúc-mã-bưu-chính)).
 
-[Danh sách Mã vùng](/Danh%20Sách/Mã%20Vùng/README.md)
+[Danh sách Mã vùng](Danh%20Sách/Mã%20Vùng/README.md)
 
-[Danh sách Mã tỉnh, thành phố trực thuộc Trung ương](/Danh%20Sách/Mã%20Tỉnh/README.md)
+[Danh sách Mã tỉnh, thành phố trực thuộc Trung ương](Danh%20Sách/Mã%20Tỉnh/README.md)
 
 ![Bản đồ Mã bưu chính](docs/assets/img/01.%20Ban%20do%20MBC.jpg "Bản đồ Mã bưu chính")
 
@@ -28,7 +28,7 @@ Trích từ [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/d
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
 Mã bưu chính quốc gia bao gồm tập hợp 05 (năm) ký tự số. Nguyên tắc gán mã được quy định cụ thể như sau:
-- [Mã vùng](/Kí%20Tự/Mã%20Vùng/README.md)
-- [Mã tỉnh, thành phố trực thuộc Trung ương](/Kí%20Tự/Mã%20Tỉnh/README.md)
-- [Mã quận, huyện và đơn vị hành chính tương đương](/Kí%20Tự/Mã%20Quận/README.md)
-- [Mã đơn vị địa phương](/Kí%20Tự/Mã%20Địa%20Phương/README.md)
+- [Mã vùng](/Ký%20Tự/Mã%20Vùng/README.md)
+- [Mã tỉnh, thành phố trực thuộc Trung ương](/Ký%20Tự/Mã%20Tỉnh/README.md)
+- [Mã quận, huyện và đơn vị hành chính tương đương](/Ký%20Tự/Mã%20Quận/README.md)
+- [Mã đơn vị địa phương](/Ký%20Tự/Mã%20Địa%20Phương/README.md)
