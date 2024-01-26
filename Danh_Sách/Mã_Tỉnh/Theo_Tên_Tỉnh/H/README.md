@@ -11,6 +11,6 @@ Số thứ tự | Tên tỉnh | Mã tỉnh
 4 | Hà Tĩnh | 45 - 46
 5 | Hải Dương | 03
 6 | TP. Hải Phòng (TƯ) | 04 - 05
-7 | TP. Hồ Chí Minh | 70 - 74
+7 | TP. Hồ Chí Minh (TƯ) | 70 - 74
 8 | Hòa Bình | 36
 9 | Hưng Yên | 17
