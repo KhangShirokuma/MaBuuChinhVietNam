@@ -5,7 +5,7 @@
 **Ký tự đầu tiên của Mã bưu chính quốc gia được dùng để xác định mã
 vùng.**
 
-## Vùng 0 - Mã vùng 0
+## Vùng 1 - Mã vùng 0
 Gồm 6 tỉnh, thành phố trực thuộc Trung ương:  
 1. Quảng Ninh
 2. TP. Hải Phòng (TƯ)
@@ -14,7 +14,7 @@ Gồm 6 tỉnh, thành phố trực thuộc Trung ương:
 5. Nam Định
 6. Ninh Bình
 
-## Vùng 1 - Mã vùng 1
+## Vùng 2 - Mã vùng 1
 Gồm 5 tỉnh, thành phố trực thuộc Trung ương:
 1. TP. Hà Nội (TƯ)
 2. Vĩnh Phúc
@@ -22,7 +22,7 @@ Gồm 5 tỉnh, thành phố trực thuộc Trung ương:
 4. Hưng Yên
 5. Hà Nam
 
-## Vùng 2 - Mã vùng 2
+## Vùng 3 - Mã vùng 2
 Gồm 7 tỉnh:
 1. Hà Giang
 2. Cao Bằng
@@ -32,7 +32,7 @@ Gồm 7 tỉnh:
 6. Thái Nguyên
 7. Bắc Giang
 
-## Vùng 3 - Mã vùng 3
+## Vùng 4 - Mã vùng 3
 Gồm 7 tỉnh:
 1. Lai Châu
 2. Lào Cai
@@ -42,7 +42,7 @@ Gồm 7 tỉnh:
 6. Phú Thọ
 7. Hòa Bình
 
-## Vùng 4 - Mã vùng 4
+## Vùng 5 - Mã vùng 4
 Gồm 6 tỉnh:
 1. Thanh Hóa
 2. Nghệ An
@@ -51,7 +51,7 @@ Gồm 6 tỉnh:
 5. Quảng Trị
 6. Thừa Thiên - Huế
 
-## Vùng 5 - Mã vùng 5
+## Vùng 6 - Mã vùng 5
 Gồm 6 tỉnh, thành phố trực thuộc Trung ương:
 1. TP. Đà Nẵng (TƯ)
 2. Quảng Nam
@@ -61,7 +61,7 @@ Gồm 6 tỉnh, thành phố trực thuộc Trung ương:
 6. Khánh Hòa
 7. Ninh Thuận
 
-## Vùng 6 - Mã vùng 6
+## Vùng 7 - Mã vùng 6
 Gồm 6 tỉnh:
 1. Kon Tum
 2. Gia Lai
@@ -70,7 +70,7 @@ Gồm 6 tỉnh:
 5. Lâm Đồng
 6. Bình Phước
 
-## Vùng 7 - Mã vùng 7
+## Vùng 8 - Mã vùng 7
 Gồm 5 tỉnh, thành phố trực thuộc Trung ương:
 1. TP. Hồ Chí Minh (TƯ)
 2. Bình Dương
@@ -78,7 +78,7 @@ Gồm 5 tỉnh, thành phố trực thuộc Trung ương:
 4. Bình Thuận
 5. Bà Rịa - Vũng Tàu
 
-## Vùng 8 - Mã vùng 8
+## Vùng 9 - Mã vùng 8
 Gồm 7 tỉnh:
 1. Tây Ninh
 2. Long An
@@ -88,7 +88,7 @@ Gồm 7 tỉnh:
 6. Bến Tre
 7. Trà Vinh
 
-## Vùng 9 - Mã vùng 9
+## Vùng 10 - Mã vùng 9
 Gồm 7 tỉnh, thành phố trực thuộc Trung ương:
 1. An Giang
 2. TP. Cần Thơ (TƯ)
