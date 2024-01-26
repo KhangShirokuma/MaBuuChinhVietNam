@@ -5,7 +5,6 @@
 ## Vùng 7 - Mã vùng 6
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 60 | Kon Tum
 2 | 61 - 62 | Gia Lai
 3 | 63 - 64 | Đắk Lắk

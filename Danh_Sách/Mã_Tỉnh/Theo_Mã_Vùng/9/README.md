@@ -5,7 +5,6 @@
 ## Vùng 10 - Mã vùng 9
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 90 | An Giang
 2 | 91 - 92 | Kiên Giang
 3 | 94 | TP. Cần Thơ (TƯ)

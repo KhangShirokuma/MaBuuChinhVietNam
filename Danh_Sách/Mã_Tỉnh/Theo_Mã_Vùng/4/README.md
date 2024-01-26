@@ -5,7 +5,6 @@
 ## Vùng 5 - Mã vùng 4
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 40 - 42 | Thanh Hóa
 2 | 43 - 44 | Nghệ An
 3 | 45 - 46 | Hà Tĩnh

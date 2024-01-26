@@ -5,7 +5,6 @@
 ## Vùng 1 - Mã vùng 0
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 01 - 02 | Quảng Ninh
 2 | 03 | Hải Dương
 3 | 04 - 05 | TP. Hải Phòng (TƯ)

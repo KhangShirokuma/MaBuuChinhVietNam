@@ -5,7 +5,6 @@
 ## Vùng 9 - Mã vùng 8
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 80 | Tây Ninh
 2 | 81 | Đồng Tháp
 3 | 82 - 83 | Long An

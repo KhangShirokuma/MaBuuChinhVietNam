@@ -5,7 +5,6 @@
 ## Vùng 8 - Mã vùng 7
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 70 - 74 | TP. Hồ Chí Minh (TƯ)
 2 | 75 | Bình Dương
 3 | 76 | Đồng Nai

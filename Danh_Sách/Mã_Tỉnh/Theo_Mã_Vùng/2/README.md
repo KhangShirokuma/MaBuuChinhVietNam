@@ -5,7 +5,6 @@
 ## Vùng 3 - Mã vùng 2
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 20 | Hà Giang
 2 | 21 | Cao Bằng
 3 | 22 | Tuyên Quang

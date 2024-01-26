@@ -5,7 +5,6 @@
 ## Vùng 4 - Mã vùng 3
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 30 | Lai Châu
 2 | 31 | Lào Cai
 3 | 32 | Điện Biên

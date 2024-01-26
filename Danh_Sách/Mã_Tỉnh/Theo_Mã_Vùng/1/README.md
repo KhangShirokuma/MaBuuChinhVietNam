@@ -5,7 +5,6 @@
 ## Vùng 2 - Mã vùng 1
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
-
 1 | 10 - 14 | TP. Hà Nội (TƯ)
 2 | 15 | Vĩnh Phúc
 3 | 16 | Bắc Ninh
