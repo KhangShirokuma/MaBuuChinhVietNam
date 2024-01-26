@@ -17,7 +17,7 @@ Xem thêm các văn bản liên quan tại [trang Tra cứu Mã bưu chính qu�
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
 Cả nước được chia thành 10 vùng (đánh số từ 0-9).  
-Mã vùng là ký tự đầu tiên (ký tự ngoài cùng bên trái) trong mã bưu chính (xem thêm phần [Cấu trúc Mã bưu chính](#cấu-trúc-mã-bưu-chính)).
+Mã vùng là ký tự đầu tiên (ký tự ngoài cùng bên trái) trong mã bưu chính (xem thêm phần [Cấu trúc Mã bưu chính quốc gia](#cấu-trúc-mã-bưu-chính-quốc-gia)).
 
 **[Danh sách Mã vùng](Danh_Sách/Mã_Vùng/README.md)**
 
