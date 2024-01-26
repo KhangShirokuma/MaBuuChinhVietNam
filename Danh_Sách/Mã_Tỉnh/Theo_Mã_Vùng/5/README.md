@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 6 - Mã vùng 5
+## Vùng 5 - Mã vùng 5
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 50 | TP. Đà Nẵng (TƯ)

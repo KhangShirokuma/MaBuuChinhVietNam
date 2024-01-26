@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 3 - Mã vùng 2
+## Vùng 2 - Mã vùng 2
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 20 | Hà Giang

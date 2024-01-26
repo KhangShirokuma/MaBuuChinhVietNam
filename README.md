@@ -34,7 +34,7 @@ Trích từ [trang Tra cứu Mã bưu chính quốc gia](https://mabuuchinh.vn/d
 Trích từ Nội dung ban hành kèm theo [Quyết định 2475/QĐ-BTTTT](https://mic.gov.vn/Pages/VanBan/14085/2475_Qd-BTTTT.html).
 
 Mã bưu chính quốc gia bao gồm tập hợp 05 (năm) ký tự số. Nguyên tắc gán mã được quy định cụ thể như sau:
-- [Mã vùng](/Ký_Tự/Mã_Vùng/README.md)
-- [Mã tỉnh, thành phố trực thuộc Trung ương](/Ký_Tự/Mã_Tỉnh/README.md)
-- [Mã quận, huyện và đơn vị hành chính tương đương](/Ký_Tự/Mã_Quận/README.md)
-- [Mã đơn vị địa phương](/Ký_Tự/Mã_Địa_Phương/README.md)
+- [Mã vùng](Ký_Tự/Mã_Vùng/README.md)
+- [Mã tỉnh, thành phố trực thuộc Trung ương](Ký_Tự/Mã_Tỉnh/README.md)
+- [Mã quận, huyện và đơn vị hành chính tương đương](Ký_Tự/Mã_Quận/README.md)
+- [Mã đơn vị địa phương](Ký_Tự/Mã_Địa_Phương/README.md)

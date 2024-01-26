@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 2 - Mã vùng 1
+## Vùng 1 - Mã vùng 1
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 10 - 14 | TP. Hà Nội (TƯ)

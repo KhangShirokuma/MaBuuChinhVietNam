@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 8 - Mã vùng 7
+## Vùng 7 - Mã vùng 7
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 70 - 74 | TP. Hồ Chí Minh (TƯ)

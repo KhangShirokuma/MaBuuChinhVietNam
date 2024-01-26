@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 9 - Mã vùng 8
+## Vùng 8 - Mã vùng 8
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 80 | Tây Ninh

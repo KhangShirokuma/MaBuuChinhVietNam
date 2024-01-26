@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 7 - Mã vùng 6
+## Vùng 6 - Mã vùng 6
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 60 | Kon Tum

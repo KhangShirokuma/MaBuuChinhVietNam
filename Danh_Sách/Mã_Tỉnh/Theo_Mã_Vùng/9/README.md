@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 10 - Mã vùng 9
+## Vùng 9 - Mã vùng 9
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 90 | An Giang

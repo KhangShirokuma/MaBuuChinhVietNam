@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 4 - Mã vùng 3
+## Vùng 3 - Mã vùng 3
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 30 | Lai Châu

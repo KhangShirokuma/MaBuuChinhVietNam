@@ -2,7 +2,7 @@
 
 **[Quay lại](https://khangshirokuma.github.io/MaBuuChinhVietNam/Danh_Sách/Mã_Tỉnh/Theo_Mã_Vùng/)**
 
-## Vùng 5 - Mã vùng 4
+## Vùng 4 - Mã vùng 4
   
 Số thứ tự | Mã tỉnh | Tên tỉnh
 1 | 40 - 42 | Thanh Hóa
